@@ -14,7 +14,7 @@
   "dependencies": {
     "array-union": "^1.0.2",
     "array-uniq": "^1.0.3",
-    "async": "^2.6.3",
+    "async": "^2.6.4",
     "balanced-match": "^1.0.2",
     "brace-expansion": "^1.1.11",
     "commander": "^2.20.3",
@@ -37,7 +37,7 @@
     "locate-path": "^5.0.0",
     "lodash": "^4.17.21",
     "make-dir": "^3.1.0",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "object-assign": "^4.1.1",
     "once": "^1.4.0",
     "p-limit": "^2.3.0",
