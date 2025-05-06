@@ -1,7 +1,7 @@
 {
   "homepage": "http://bwrgo.github.io/",
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^5.0.0"
   },
   "scripts": {
     "predeploy": "npm run build",
