@@ -37,7 +37,7 @@
     "locate-path": "^5.0.0",
     "lodash": "^4.17.23",
     "make-dir": "^3.1.0",
-    "minimatch": "^10.2.2",
+    "minimatch": "^10.2.4",
     "object-assign": "^4.1.1",
     "once": "^1.4.0",
     "p-limit": "^2.3.0",
